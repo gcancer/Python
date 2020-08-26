@@ -20,7 +20,7 @@ print(float(3 + 2))
 print(type(float('1.2')))
 
 # 2진수(0b), 8진수(0o), 16진수(0x) // binary, octa, hexa
-c= 0b1111
+c = 0b1111
 print(c)
 b = 0o77
 print(b)

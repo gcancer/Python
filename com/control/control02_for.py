@@ -1,7 +1,7 @@
 subject = ['java','javascript','python']
 
 for i in subject:
-    print(i, end=' ') # end= ' ' == println
+    print(i, end=' ')
 else:
     print('재밌다.')
 
